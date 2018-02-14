@@ -7,7 +7,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// Número de dígitos que posee un número
 		
-		
+		hey okey
 		int numero1;
 		Scanner sc=new Scanner (System.in);
 		
